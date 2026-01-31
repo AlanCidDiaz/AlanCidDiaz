@@ -62,25 +62,5 @@ I'm currently a **Software Development and Management Engineering student**. Pas
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=AlanCidDiaz&theme=dark&show_icons=true&count_private=true" />
-        <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlanCidDiaz&theme=dark&hide_border=false" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AlanCidDiaz&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-      </td>
-    </tr>
-  </table>
-</p>
-
----
 
 ⭐️ From [AlanCidDiaz](https://github.com/AlanCidDiaz)
